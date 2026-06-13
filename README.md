@@ -9,7 +9,9 @@
 - Image filtering by category
 - Hover effects and transitions
 
-![Image Gallery](CodeApha_Frontend-Development/Task1/Task1_Screenshot.jpg)
+
+![Image Gallery](CodeAlpha_Frontend-Development/Task1/Task1_Screenshot.jpg)
+
 
 ## 2. Calculator
 
@@ -19,7 +21,9 @@
 - Keyboard support
 - Responsive UI
 
-![Calculator](Task2/Task2_Screenshot.jpg)
+
+![Calculator](CodeAlpha_Frontend-Development/Task2/Task2_Screenshot.jpg)
+
 
 ## 3. Music Player
 
@@ -32,7 +36,9 @@
 - Album cover animation
 - Autoplay
 
-![Music Player](Task4/Task4_Screenshot.jpg)
+
+![Music Player](CodeAlpha_Frontend-Development/Task4/Task4_Screenshot.jpg)
+
 
 ## Technologies Used
 - HTML5
