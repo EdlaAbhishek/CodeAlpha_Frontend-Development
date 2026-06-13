@@ -10,12 +10,16 @@ Features:
 - Image filtering by category
 - Hover effects and transitions
 
+![Image Gallery](Task 1/Task1_Screenshot.jpg)
+
 ### 2. Calculator
 Features:
 - Addition, subtraction, multiplication, division
 - Clear and delete functionality
 - Keyboard support
 - Responsive UI
+
+![Calculator](Task 2/Task2_Screenshot.jpg)
 
 ### 3. Music Player
 Features:
@@ -26,6 +30,8 @@ Features:
 - Playlist support
 - Album cover animation
 - Autoplay
+  
+![Music Player](Task 4/Task4_Screenshot.jpg)
 
 ## Technologies Used
 - HTML5
